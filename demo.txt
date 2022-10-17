@@ -1,1 +1,3 @@
 this file is to demonstrate the use of git hub and how the local and remote git repositories are connected
+hi
+hello
